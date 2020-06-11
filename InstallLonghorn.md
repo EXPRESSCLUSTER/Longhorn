@@ -2,7 +2,7 @@
 ## Index
 - [Evaluation Environment](#evaluation-environment)
 - [Prerequisite](#prerequisite)
-- [Install Longhorn](#install-longhorn)
+- [Deploy Longhorn](#deploy-longhorn)
 
 ## Evaluation Environment
 - The cluster has one control plane and three nodes to deploy Longhorn.
@@ -35,7 +35,7 @@
   - https://github.com/EXPRESSCLUSTER/Helm/blob/master/InstallHelm.md
 - Install Git on the control plane.
 
-## Install Longhorn
+## Deploy Longhorn
 1. Clone the repository.
    ```sh
    $ git clone https://github.com/longhorn/longhorn
