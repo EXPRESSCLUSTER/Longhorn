@@ -1,6 +1,6 @@
 # Upgrade Longhorn
 ## Index
-- Upgrade from v1.0.0 to v1.0.1
+- [Upgrade from v1.0.0 to v1.0.1](#upgrade-from-v100-to-v101)
 
 ## Upgrade from v1.0.0 to v1.0.1
 - Official Documentation
